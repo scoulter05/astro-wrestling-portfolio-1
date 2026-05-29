@@ -11,7 +11,7 @@ export default {
 	title: 'SSV',
 	favicon: 'favicon.ico',
 	owner: 'Soda City Visuals',
-	profileImage: 'profile.jpg',
+	profileImage: 'profile.webp',
 	socialLinks: [
 		{
 			name: 'GitHub',
