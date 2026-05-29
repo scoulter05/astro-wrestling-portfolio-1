@@ -2,13 +2,14 @@
 title: About me
 ---
 
-### Hi, I'm Sara Richard 👋
+### Hello, We are Soda City Visuals 👋
 
-I've been a photographer for over 10 years, focusing primarily on landscape and portrait photography. My journey began
-with a simple point-and-shoot camera while traveling through the mountains of Colorado, which sparked a passion that has
-taken me across the globe.
-My approach to photography centers on finding the extraordinary in ordinary moments. I believe that beauty exists
-everywhere – in urban streets, remote wilderness, and human connections. My goal is to capture these fleeting instances
-in a way that allows viewers to see the world through a different lens.
-When I'm not behind the camera, you can find me hiking in national parks, exploring new cities, or enjoying a cup of
-coffee at local cafés while planning my next photo adventure.
+Soda City Visuals was founded with a simple mission: create compelling imagery that helps people celebrate accomplishments, preserve memories, and showcase what matters most.
+
+We specialize in a diverse range of photography services, including graduation sessions, sports coverage, events, real estate photography, and professional portraits. By combining technical expertise with a creative eye, we deliver images that are both impactful and authentic.
+
+Our team is passionate about capturing moments that tell a story—whether it's an athlete competing at their highest level, a graduate marking a major achievement, a family creating memories, or a business presenting its brand to the world.
+
+We believe every client deserves a professional experience from start to finish, and we are committed to providing high-quality photography with exceptional service, clear communication, and dependable results.
+
+Based in Columbia, South Carolina, Soda City Visuals proudly serves clients throughout the Midlands and beyond.

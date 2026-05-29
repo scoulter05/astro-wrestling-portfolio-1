@@ -1,90 +1,798 @@
 collections:
-  - id: nature
-    name: Nature
-  - id: travel
-    name: Travel
-  - id: street
-    name: Street
+  - id: graduation
+    name: Graduation
+  - id: wrestling
+    name: Wrestling
 images:
-  - path: nature/nature-2.jpg
+  - path: graduation/20100309-IMG_0005.jpg
     meta:
-      title: Nature scene 2
-      description: Serene natural landscape capturing the essence of wilderness.
-      collections:
-        - nature
-    exif: {}
-  - path: nature/nature-3.jpg
-    meta:
-      title: Nature scene 3
-      description: Breathtaking natural vista showcasing environmental beauty.
-      collections:
-        - featured
-        - nature
-    exif: {}
-  - path: nature/nature-5.jpg
-    meta:
-      title: Nature scene 5
-      description: Natural landscape showing the raw beauty of the environment.
-      collections:
-        - nature
-    exif: {}
-  - path: nature/nature-7.jpg
-    meta:
-      title: Nature scene 7
-      description: Stunning natural landscape capturing environmental beauty.
-      collections:
-        - featured
-        - nature
-    exif: {}
-  - path: nature/nature-8.jpg
-    meta:
-      title: Nature scene 8
-      description: Beautiful natural vista showcasing environmental wonder.
-      collections:
-        - nature
-    exif: {}
-  - path: nature/L1002174.jpg
-    meta:
-      title: Travel scene 6
-      description: null
-      collections:
-        - featured
-        - nature
-    exif:
-      captureDate: 2025-03-27T10:35:21.000Z
-      fNumber: 8
-      focalLength: 28
-      iso: 100
-      model: LEICA Q3
-      shutterSpeed: 1250
-      lensModel: SUMMILUX 1:1.7/28 ASPH.
-  - path: nature/nature-10.jpg
-    meta:
-      title: Nature scene 10
-      description: Majestic natural landscape displaying environmental splendor.
-      collections:
-        - nature
-    exif: {}
-  - path: street/stree-1.jpg
-    meta:
-      title: Street photography 1
-      description: Urban scene capturing the essence of city life.
-      collections:
-        - featured
-        - street
-    exif: {}
-  - path: travel/travel-1.jpg
-    meta:
-      title: Travel scene 1
-      description: Journey through remarkable destinations.
-      collections:
-        - featured
-        - travel
-    exif: {}
-  - path: nature/nature-1.jpg
-    meta:
-      title: Nature 1
+      title: 20100309 Img 0005
       description: ''
       collections:
-        - nature
-    exif: {}
+        - graduation
+    exif:
+      captureDate: 2010-03-09T09:26:26.000Z
+      fNumber: 2.8
+      focalLength: 38
+      iso: 400
+      model: Canon EOS REBEL T2i
+      shutterSpeed: 50
+      lensModel: 17-50mm
+  - path: graduation/20100309-IMG_0010.jpg
+    meta:
+      title: 20100309 Img 0010
+      description: ''
+      collections:
+        - graduation
+    exif:
+      captureDate: 2010-03-09T09:26:53.000Z
+      fNumber: 2.8
+      focalLength: 26
+      iso: 400
+      model: Canon EOS REBEL T2i
+      shutterSpeed: 50
+      lensModel: 17-50mm
+  - path: graduation/20100309-IMG_0017.jpg
+    meta:
+      title: 20100309 Img 0017
+      description: ''
+      collections:
+        - graduation
+    exif:
+      captureDate: 2010-03-09T09:27:27.000Z
+      fNumber: 2.8
+      focalLength: 26
+      iso: 400
+      model: Canon EOS REBEL T2i
+      shutterSpeed: 50
+      lensModel: 17-50mm
+  - path: graduation/20260506-0D0A0055.jpg
+    meta:
+      title: 20260506 0d0a0055
+      description: ''
+      collections:
+        - graduation
+    exif:
+      captureDate: 2026-05-06T05:29:01.000Z
+      fNumber: 4
+      focalLength: 43
+      iso: 100
+      model: Canon EOS R
+      shutterSpeed: 60
+      lensModel: RF24-105mm F4 L IS USM
+  - path: graduation/20260506-0D0A0078.jpg
+    meta:
+      title: 20260506 0d0a0078
+      description: ''
+      collections:
+        - graduation
+    exif:
+      captureDate: 2026-05-06T05:33:35.000Z
+      fNumber: 4
+      focalLength: 24
+      iso: 100
+      model: Canon EOS R
+      shutterSpeed: 60
+      lensModel: RF24-105mm F4 L IS USM
+  - path: graduation/20260506-0D0A0089.jpg
+    meta:
+      title: 20260506 0d0a0089
+      description: ''
+      collections:
+        - graduation
+    exif:
+      captureDate: 2026-05-06T05:34:43.000Z
+      fNumber: 4
+      focalLength: 24
+      iso: 100
+      model: Canon EOS R
+      shutterSpeed: 60
+      lensModel: RF24-105mm F4 L IS USM
+  - path: graduation/20260506-0D0A0104.jpg
+    meta:
+      title: 20260506 0d0a0104
+      description: ''
+      collections:
+        - graduation
+        - featured
+    exif:
+      captureDate: 2026-05-06T05:36:37.000Z
+      fNumber: 4
+      focalLength: 50
+      iso: 100
+      model: Canon EOS R
+      shutterSpeed: 60
+      lensModel: RF24-105mm F4 L IS USM
+  - path: graduation/20260506-0D0A0154.jpg
+    meta:
+      title: 20260506 0d0a0154
+      description: ''
+      collections:
+        - graduation
+    exif:
+      captureDate: 2026-05-06T05:39:57.000Z
+      fNumber: 4
+      focalLength: 43
+      iso: 100
+      model: Canon EOS R
+      shutterSpeed: 50
+      lensModel: RF24-105mm F4 L IS USM
+  - path: graduation/20260506-0D0A0193.jpg
+    meta:
+      title: 20260506 0d0a0193
+      description: ''
+      collections:
+        - graduation
+    exif:
+      captureDate: 2026-05-06T05:42:19.000Z
+      fNumber: 4
+      focalLength: 29
+      iso: 200
+      model: Canon EOS R
+      shutterSpeed: 200
+      lensModel: RF24-105mm F4 L IS USM
+  - path: graduation/20260506-0D0A0223.jpg
+    meta:
+      title: 20260506 0d0a0223
+      description: ''
+      collections:
+        - graduation
+    exif:
+      captureDate: 2026-05-06T06:10:36.000Z
+      fNumber: 4
+      focalLength: 70
+      iso: 400
+      model: Canon EOS R
+      shutterSpeed: 30
+      lensModel: RF70-200mm F4 L IS USM
+  - path: graduation/20260506-0D0A0247.jpg
+    meta:
+      title: 20260506 0d0a0247
+      description: ''
+      collections:
+        - graduation
+    exif:
+      captureDate: 2026-05-06T06:12:03.000Z
+      fNumber: 4
+      focalLength: 94
+      iso: 400
+      model: Canon EOS R
+      shutterSpeed: 30
+      lensModel: RF70-200mm F4 L IS USM
+  - path: graduation/20260506-0D0A0272.jpg
+    meta:
+      title: 20260506 0d0a0272
+      description: ''
+      collections:
+        - graduation
+        - featured
+    exif:
+      captureDate: 2026-05-06T06:12:33.000Z
+      fNumber: 4
+      focalLength: 94
+      iso: 400
+      model: Canon EOS R
+      shutterSpeed: 30
+      lensModel: RF70-200mm F4 L IS USM
+  - path: graduation/20260506-0D0A0280.jpg
+    meta:
+      title: 20260506 0d0a0280
+      description: ''
+      collections:
+        - graduation
+    exif:
+      captureDate: 2026-05-06T06:14:49.000Z
+      fNumber: 4
+      focalLength: 40
+      iso: 640
+      model: Canon EOS R
+      shutterSpeed: 50
+      lensModel: RF24-105mm F4 L IS USM
+  - path: graduation/20260506-0D0A0301.jpg
+    meta:
+      title: 20260506 0d0a0301
+      description: ''
+      collections:
+        - graduation
+    exif:
+      captureDate: 2026-05-06T06:16:23.000Z
+      fNumber: 4
+      focalLength: 43
+      iso: 640
+      model: Canon EOS R
+      shutterSpeed: 50
+      lensModel: RF24-105mm F4 L IS USM
+  - path: graduation/20260506-0D0A0314.jpg
+    meta:
+      title: 20260506 0d0a0314
+      description: ''
+      collections:
+        - graduation
+    exif:
+      captureDate: 2026-05-06T06:16:53.000Z
+      fNumber: 4
+      focalLength: 42
+      iso: 640
+      model: Canon EOS R
+      shutterSpeed: 50
+      lensModel: RF24-105mm F4 L IS USM
+  - path: graduation/20260506-0D0A0322.jpg
+    meta:
+      title: 20260506 0d0a0322
+      description: ''
+      collections:
+        - graduation
+    exif:
+      captureDate: 2026-05-06T06:17:11.000Z
+      fNumber: 4
+      focalLength: 72
+      iso: 640
+      model: Canon EOS R
+      shutterSpeed: 50
+      lensModel: RF24-105mm F4 L IS USM
+  - path: graduation/20260506-0D0A0343.jpg
+    meta:
+      title: 20260506 0d0a0343
+      description: ''
+      collections:
+        - graduation
+    exif:
+      captureDate: 2026-05-06T06:18:31.000Z
+      fNumber: 4
+      focalLength: 37
+      iso: 640
+      model: Canon EOS R
+      shutterSpeed: 50
+      lensModel: RF24-105mm F4 L IS USM
+  - path: graduation/20260506-0D0A9763.jpg
+    meta:
+      title: 20260506 0d0a9763
+      description: ''
+      collections:
+        - graduation
+    exif:
+      captureDate: 2026-05-06T04:51:17.000Z
+      fNumber: 4
+      focalLength: 141
+      iso: 200
+      model: Canon EOS R
+      shutterSpeed: 125
+      lensModel: RF70-200mm F4 L IS USM
+  - path: graduation/20260506-0D0A9789.jpg
+    meta:
+      title: 20260506 0d0a9789
+      description: ''
+      collections:
+        - graduation
+    exif:
+      captureDate: 2026-05-06T04:54:56.000Z
+      fNumber: 4
+      focalLength: 90
+      iso: 100
+      model: Canon EOS R
+      shutterSpeed: 400
+      lensModel: RF70-200mm F4 L IS USM
+  - path: graduation/20260506-0D0A9805.jpg
+    meta:
+      title: 20260506 0d0a9805
+      description: ''
+      collections:
+        - graduation
+    exif:
+      captureDate: 2026-05-06T04:55:50.000Z
+      fNumber: 4
+      focalLength: 86
+      iso: 100
+      model: Canon EOS R
+      shutterSpeed: 400
+      lensModel: RF70-200mm F4 L IS USM
+  - path: graduation/20260506-0D0A9876.jpg
+    meta:
+      title: 20260506 0d0a9876
+      description: ''
+      collections:
+        - graduation
+    exif:
+      captureDate: 2026-05-06T05:04:56.000Z
+      fNumber: 7.1
+      focalLength: 105
+      iso: 100
+      model: Canon EOS R
+      shutterSpeed: 125
+      lensModel: RF24-105mm F4 L IS USM
+  - path: graduation/20260506-0D0A9887.jpg
+    meta:
+      title: 20260506 0d0a9887
+      description: ''
+      collections:
+        - graduation
+    exif:
+      captureDate: 2026-05-06T05:17:03.000Z
+      fNumber: 7.1
+      focalLength: 24
+      iso: 100
+      model: Canon EOS R
+      shutterSpeed: 125
+      lensModel: RF24-105mm F4 L IS USM
+  - path: graduation/20260506-0D0A9896.jpg
+    meta:
+      title: 20260506 0d0a9896
+      description: ''
+      collections:
+        - graduation
+        - featured
+    exif:
+      captureDate: 2026-05-06T05:18:24.000Z
+      fNumber: 6.3
+      focalLength: 65
+      iso: 100
+      model: Canon EOS R
+      shutterSpeed: 125
+      lensModel: RF24-105mm F4 L IS USM
+  - path: graduation/20260506-0D0A9901.jpg
+    meta:
+      title: 20260506 0d0a9901
+      description: ''
+      collections:
+        - graduation
+    exif:
+      captureDate: 2026-05-06T05:19:15.000Z
+      fNumber: 6.3
+      focalLength: 61
+      iso: 100
+      model: Canon EOS R
+      shutterSpeed: 125
+      lensModel: RF24-105mm F4 L IS USM
+  - path: graduation/20260506-0D0A9920.jpg
+    meta:
+      title: 20260506 0d0a9920
+      description: ''
+      collections:
+        - graduation
+    exif:
+      captureDate: 2026-05-06T05:22:14.000Z
+      fNumber: 5.6
+      focalLength: 35
+      iso: 100
+      model: Canon EOS R
+      shutterSpeed: 125
+      lensModel: RF24-105mm F4 L IS USM
+  - path: graduation/20260506-0D0A9925.jpg
+    meta:
+      title: 20260506 0d0a9925
+      description: ''
+      collections:
+        - graduation
+        - featured
+    exif:
+      captureDate: 2026-05-06T05:22:22.000Z
+      fNumber: 5.6
+      focalLength: 31
+      iso: 100
+      model: Canon EOS R
+      shutterSpeed: 50
+      lensModel: RF24-105mm F4 L IS USM
+  - path: wrestling/0D0A9294-Enhanced-NR.jpg
+    meta:
+      title: 0d0a9294 Enhanced Nr
+      description: ''
+      collections:
+        - wrestling
+        - featured
+    exif:
+      captureDate: 2026-02-28T22:01:26.000Z
+      fNumber: 4
+      focalLength: 164
+      iso: 6400
+      model: Canon EOS R
+      shutterSpeed: 1000
+      lensModel: RF70-200mm F4 L IS USM
+  - path: wrestling/0D0A9366-Enhanced-NR.jpg
+    meta:
+      title: 0d0a9366 Enhanced Nr
+      description: ''
+      collections:
+        - wrestling
+    exif:
+      captureDate: 2026-02-28T22:02:55.000Z
+      fNumber: 4
+      focalLength: 77
+      iso: 6400
+      model: Canon EOS R
+      shutterSpeed: 800
+      lensModel: RF70-200mm F4 L IS USM
+  - path: wrestling/0D0A9511-Enhanced-NR.jpg
+    meta:
+      title: 0d0a9511 Enhanced Nr
+      description: ''
+      collections:
+        - wrestling
+    exif:
+      captureDate: 2026-02-28T23:33:17.000Z
+      fNumber: 4
+      focalLength: 120
+      iso: 6400
+      model: Canon EOS R
+      shutterSpeed: 1000
+      lensModel: RF70-200mm F4 L IS USM
+  - path: wrestling/0D0A9608-Enhanced-NR.jpg
+    meta:
+      title: 0d0a9608 Enhanced Nr
+      description: ''
+      collections:
+        - wrestling
+    exif:
+      captureDate: 2026-03-01T00:24:06.000Z
+      fNumber: 4
+      focalLength: 70
+      iso: 6400
+      model: Canon EOS R
+      shutterSpeed: 1000
+      lensModel: RF70-200mm F4 L IS USM
+  - path: wrestling/0D0A9618-Enhanced-NR.jpg
+    meta:
+      title: 0d0a9618 Enhanced Nr
+      description: ''
+      collections:
+        - wrestling
+    exif:
+      captureDate: 2026-03-01T00:24:19.000Z
+      fNumber: 4
+      focalLength: 70
+      iso: 6400
+      model: Canon EOS R
+      shutterSpeed: 1000
+      lensModel: RF70-200mm F4 L IS USM
+  - path: wrestling/IMG_0377.jpg
+    meta:
+      title: Img 0377
+      description: ''
+      collections:
+        - wrestling
+    exif:
+      captureDate: 2010-01-01T00:59:32.000Z
+      fNumber: 2.8
+      focalLength: 21
+      iso: 3200
+      model: Canon EOS REBEL T2i
+      shutterSpeed: 200
+      lensModel: 17-50mm
+  - path: wrestling/IMG_0499.jpg
+    meta:
+      title: Img 0499
+      description: ''
+      collections:
+        - wrestling
+    exif:
+      captureDate: 2010-01-01T01:31:24.000Z
+      fNumber: 2.8
+      focalLength: 38
+      iso: 3200
+      model: Canon EOS REBEL T2i
+      shutterSpeed: 200
+      lensModel: 17-50mm
+  - path: wrestling/IMG_0501.jpg
+    meta:
+      title: Img 0501
+      description: ''
+      collections:
+        - wrestling
+        - featured 
+    exif:
+      captureDate: 2010-01-01T01:31:27.000Z
+      fNumber: 2.8
+      focalLength: 38
+      iso: 3200
+      model: Canon EOS REBEL T2i
+      shutterSpeed: 250
+      lensModel: 17-50mm
+  - path: wrestling/IMG_0512.jpg
+    meta:
+      title: Img 0512
+      description: ''
+      collections:
+        - wrestling
+    exif:
+      captureDate: 2010-01-01T01:31:35.000Z
+      fNumber: 2.8
+      focalLength: 38
+      iso: 3200
+      model: Canon EOS REBEL T2i
+      shutterSpeed: 400
+      lensModel: 17-50mm
+  - path: wrestling/IMG_1507.jpg
+    meta:
+      title: Img 1507
+      description: ''
+      collections:
+        - wrestling
+    exif:
+      captureDate: 2010-01-01T04:50:55.000Z
+      fNumber: 2.8
+      focalLength: 50
+      iso: 3200
+      model: Canon EOS REBEL T2i
+      shutterSpeed: 500
+      lensModel: 17-50mm
+  - path: wrestling/IMG_1577.jpg
+    meta:
+      title: Img 1577
+      description: ''
+      collections:
+        - wrestling
+        - featured
+    exif:
+      captureDate: 2010-01-01T04:52:44.000Z
+      fNumber: 2.8
+      focalLength: 50
+      iso: 2500
+      model: Canon EOS REBEL T2i
+      shutterSpeed: 400
+      lensModel: 17-50mm
+  - path: wrestling/IMG_1586.jpg
+    meta:
+      title: Img 1586
+      description: ''
+      collections:
+        - wrestling
+    exif:
+      captureDate: 2010-01-01T04:52:47.000Z
+      fNumber: 2.8
+      focalLength: 50
+      iso: 2500
+      model: Canon EOS REBEL T2i
+      shutterSpeed: 400
+      lensModel: 17-50mm
+  - path: wrestling/IMG_1637.jpg
+    meta:
+      title: Img 1637
+      description: ''
+      collections:
+        - wrestling
+    exif:
+      captureDate: 2010-01-01T05:07:41.000Z
+      fNumber: 2.8
+      focalLength: 50
+      iso: 3200
+      model: Canon EOS REBEL T2i
+      shutterSpeed: 500
+      lensModel: 17-50mm
+  - path: wrestling/IMG_1671.jpg
+    meta:
+      title: Img 1671
+      description: ''
+      collections:
+        - wrestling
+    exif:
+      captureDate: 2010-01-01T05:10:10.000Z
+      fNumber: 2.8
+      focalLength: 45
+      iso: 3200
+      model: Canon EOS REBEL T2i
+      shutterSpeed: 400
+      lensModel: 17-50mm
+  - path: wrestling/IMG_1990.jpg
+    meta:
+      title: Img 1990
+      description: ''
+      collections:
+        - wrestling
+    exif:
+      captureDate: 2010-01-01T05:33:40.000Z
+      fNumber: 2.8
+      focalLength: 38
+      iso: 3200
+      model: Canon EOS REBEL T2i
+      shutterSpeed: 320
+      lensModel: 17-50mm
+  - path: wrestling/IMG_1998.jpg
+    meta:
+      title: Img 1998
+      description: ''
+      collections:
+        - wrestling
+    exif:
+      captureDate: 2010-01-01T05:33:46.000Z
+      fNumber: 2.8
+      focalLength: 38
+      iso: 3200
+      model: Canon EOS REBEL T2i
+      shutterSpeed: 250
+      lensModel: 17-50mm
+  - path: wrestling/IMG_2073.jpg
+    meta:
+      title: Img 2073
+      description: ''
+      collections:
+        - wrestling
+    exif:
+      captureDate: 2010-01-01T05:35:23.000Z
+      fNumber: 2.8
+      focalLength: 38
+      iso: 3200
+      model: Canon EOS REBEL T2i
+      shutterSpeed: 250
+      lensModel: 17-50mm
+  - path: wrestling/IMG_2118.jpg
+    meta:
+      title: Img 2118
+      description: ''
+      collections:
+        - wrestling
+    exif:
+      captureDate: 2010-01-01T05:36:23.000Z
+      fNumber: 2.8
+      focalLength: 38
+      iso: 3200
+      model: Canon EOS REBEL T2i
+      shutterSpeed: 250
+      lensModel: 17-50mm
+  - path: wrestling/IMG_2270.jpg
+    meta:
+      title: Img 2270
+      description: ''
+      collections:
+        - wrestling
+    exif:
+      captureDate: 2010-01-01T05:50:48.000Z
+      fNumber: 2.8
+      focalLength: 38
+      iso: 3200
+      model: Canon EOS REBEL T2i
+      shutterSpeed: 400
+      lensModel: 17-50mm
+  - path: wrestling/IMG_2298.jpg
+    meta:
+      title: Img 2298
+      description: ''
+      collections:
+        - wrestling
+    exif:
+      captureDate: 2010-01-01T05:51:08.000Z
+      fNumber: 2.8
+      focalLength: 38
+      iso: 2500
+      model: Canon EOS REBEL T2i
+      shutterSpeed: 400
+      lensModel: 17-50mm
+  - path: wrestling/IMG_2361.jpg
+    meta:
+      title: Img 2361
+      description: ''
+      collections:
+        - wrestling
+    exif:
+      captureDate: 2010-01-01T06:00:35.000Z
+      fNumber: 2.8
+      focalLength: 50
+      iso: 3200
+      model: Canon EOS REBEL T2i
+      shutterSpeed: 500
+      lensModel: 17-50mm
+  - path: wrestling/IMG_2366.jpg
+    meta:
+      title: Img 2366
+      description: ''
+      collections:
+        - wrestling
+    exif:
+      captureDate: 2010-01-01T06:00:56.000Z
+      fNumber: 2.8
+      focalLength: 50
+      iso: 3200
+      model: Canon EOS REBEL T2i
+      shutterSpeed: 320
+      lensModel: 17-50mm
+  - path: wrestling/IMG_2379.jpg
+    meta:
+      title: Img 2379
+      description: ''
+      collections:
+        - wrestling
+    exif:
+      captureDate: 2010-01-01T06:01:00.000Z
+      fNumber: 2.8
+      focalLength: 50
+      iso: 3200
+      model: Canon EOS REBEL T2i
+      shutterSpeed: 320
+      lensModel: 17-50mm
+  - path: wrestling/IMG_2380.jpg
+    meta:
+      title: Img 2380
+      description: ''
+      collections:
+        - wrestling
+    exif:
+      captureDate: 2010-01-01T06:01:01.000Z
+      fNumber: 2.8
+      focalLength: 50
+      iso: 3200
+      model: Canon EOS REBEL T2i
+      shutterSpeed: 320
+      lensModel: 17-50mm
+  - path: wrestling/IMG_2866.jpg
+    meta:
+      title: Img 2866
+      description: ''
+      collections:
+        - wrestling
+        - featured
+    exif:
+      captureDate: 2010-01-01T07:19:08.000Z
+      fNumber: 2.8
+      focalLength: 30
+      iso: 2500
+      model: Canon EOS REBEL T2i
+      shutterSpeed: 320
+      lensModel: 17-50mm
+  - path: wrestling/IMG_2933.jpg
+    meta:
+      title: Img 2933
+      description: ''
+      collections:
+        - wrestling
+    exif:
+      captureDate: 2010-01-01T07:29:15.000Z
+      fNumber: 2.8
+      focalLength: 50
+      iso: 3200
+      model: Canon EOS REBEL T2i
+      shutterSpeed: 250
+      lensModel: 17-50mm
+  - path: wrestling/IMG_2992.jpg
+    meta:
+      title: Img 2992
+      description: ''
+      collections:
+        - wrestling
+    exif:
+      captureDate: 2010-01-01T07:32:18.000Z
+      fNumber: 2.8
+      focalLength: 50
+      iso: 3200
+      model: Canon EOS REBEL T2i
+      shutterSpeed: 320
+      lensModel: 17-50mm
+  - path: wrestling/IMG_2993.jpg
+    meta:
+      title: Img 2993
+      description: ''
+      collections:
+        - wrestling
+    exif:
+      captureDate: 2010-01-01T07:32:18.000Z
+      fNumber: 2.8
+      focalLength: 50
+      iso: 3200
+      model: Canon EOS REBEL T2i
+      shutterSpeed: 320
+      lensModel: 17-50mm
+  - path: wrestling/wrestling-1.jpg
+    meta:
+      title: Wrestling 1
+      description: ''
+      collections:
+        - wrestling
+    exif:
+      captureDate: 2010-01-01T05:50:48.000Z
+      fNumber: 2.8
+      focalLength: 38
+      iso: 3200
+      model: Canon EOS REBEL T2i
+      shutterSpeed: 400
+      lensModel: 17-50mm
+  - path: wrestling/wrestling-2.jpg
+    meta:
+      title: Wrestling 2
+      description: ''
+      collections:
+        - wrestling
+    exif:
+      captureDate: 2010-01-01T05:51:08.000Z
+      fNumber: 2.8
+      focalLength: 38
+      iso: 2500
+      model: Canon EOS REBEL T2i
+      shutterSpeed: 400
+      lensModel: 17-50mm

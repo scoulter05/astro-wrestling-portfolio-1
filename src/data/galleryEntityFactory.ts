@@ -7,13 +7,14 @@ export const createGalleryImage = async (
 	file: string,
 ): Promise<GalleryImage> => {
 	const relativePath = path.relative(galleryDir, file);
+	const posixRelativePath = normalizeToPosix(relativePath);
 	const exifData = await exifr.parse(file);
 	const image = {
-		path: relativePath,
+		path: posixRelativePath,
 		meta: {
 			title: toReadableCaption(path.basename(relativePath, path.extname(relativePath))),
 			description: '',
-			collections: collectionIdForImage(relativePath),
+			collections: collectionIdForImage(posixRelativePath),
 		},
 		exif: {},
 	};
@@ -42,12 +43,18 @@ function toReadableCaption(input: string): string {
 }
 
 function collectionIdForImage(relativePath: string) {
-	return path.dirname(relativePath) === '.' ? [] : [path.dirname(relativePath)];
+	const normalizedPath = normalizeToPosix(relativePath);
+	return path.posix.dirname(normalizedPath) === '.' ? [] : [path.posix.dirname(normalizedPath)];
+}
+
+function normalizeToPosix(input: string) {
+	return input.split(path.sep).join('/');
 }
 
 export const createGalleryCollection = (dir: string) => {
+	const normalizedDir = normalizeToPosix(dir);
 	return {
-		id: dir,
-		name: toReadableCaption(dir),
+		id: normalizedDir,
+		name: toReadableCaption(normalizedDir),
 	};
 };
