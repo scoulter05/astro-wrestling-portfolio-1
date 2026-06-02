@@ -24,6 +24,7 @@ images:
       description: ''
       collections:
         - graduation
+        - featured
     exif:
       captureDate: 2010-03-09T09:26:53.000Z
       fNumber: 2.8
@@ -94,7 +95,6 @@ images:
       description: ''
       collections:
         - graduation
-        - featured
     exif:
       captureDate: 2026-05-06T05:36:37.000Z
       fNumber: 4
@@ -278,6 +278,7 @@ images:
       description: ''
       collections:
         - graduation
+        - featured
     exif:
       captureDate: 2026-05-06T04:55:50.000Z
       fNumber: 4
@@ -363,7 +364,6 @@ images:
       description: ''
       collections:
         - graduation
-        - featured
     exif:
       captureDate: 2026-05-06T05:22:22.000Z
       fNumber: 5.6
@@ -421,6 +421,7 @@ images:
       description: ''
       collections:
         - wrestling
+        - featured
     exif:
       captureDate: 2026-03-01T00:24:06.000Z
       fNumber: 4
@@ -477,7 +478,6 @@ images:
       description: ''
       collections:
         - wrestling
-        - featured 
     exif:
       captureDate: 2010-01-01T01:31:27.000Z
       fNumber: 2.8
@@ -717,7 +717,6 @@ images:
       description: ''
       collections:
         - wrestling
-        - featured
     exif:
       captureDate: 2010-01-01T07:19:08.000Z
       fNumber: 2.8
