@@ -6,5 +6,15 @@
 	"type": "javascript",
 	"site": {
 		"bucket": "dist"
+	},
+	"env": {
+		"production": {
+			"routes": [
+				{
+					"pattern": "astro-wrestling-portfolio-1.siddonfilm.workers.dev/*",
+					"zone_name": "siddonfilm.workers.dev"
+				}
+			]
+		}
 	}
 }
