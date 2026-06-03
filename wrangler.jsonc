@@ -4,9 +4,6 @@
 	"compatibility_date": "2026-06-02",
 	"main": "workers-site/index.js",
 	"type": "javascript",
-	"build": {
-		"command": "npm run build"
-	},
 	"site": {
 		"bucket": "dist"
 	}
